@@ -1,0 +1,6 @@
+search forms
+```xml
+[form action='search'
+  Search this blog [in type='search' name='q']
+]
+```
